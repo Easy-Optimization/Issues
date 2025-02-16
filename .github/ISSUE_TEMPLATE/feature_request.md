@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-** What feature would you like**
+**  What feature/mod would you like **
 
-**Describe the feature**
+**Describe the feature/mod**
 A clear and concise description of what you want to happen.
